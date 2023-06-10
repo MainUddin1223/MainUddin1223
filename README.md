@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm MD Main Uddin</h1>
-<h3 align="center">A passionate React developer</h3>
+<h3 align="center">A passionate MERN Stack developer</h3>
 
 - 🔭 I’m currently working on [HM Electronics](https://hm-electronics.web.app/)
 
-- 🌱 I’m currently learning **Redux , typescript**
+- 🌱 I’m currently learning **Node , Redux, typescript**
 
 - 👯 I’m looking to collaborate on **Github**
 
