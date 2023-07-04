@@ -2,7 +2,7 @@
 <h3 align="center">A passionate MERN Stack developer</h3>
 
 - 🔭 I’m currently working on [HM Electronics](https://hm-electronics.web.app/)
-- 🔭 My recent project [Nutritt]([https://hm-electronics.web.app/](https://nutritt-dev.vercel.app/))
+- 🔭 My recent project [Nutritt](https://nutritt-dev.vercel.app/)
 
 - 🌱 I’m currently learning **Node , Redux, Postgresql**
 
