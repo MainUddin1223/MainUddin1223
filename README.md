@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **mainuddin.dev@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1eKRbZEuRZwfviGib5BPb64otTWmeCUFS/view?usp=sharing](https://drive.google.com/file/d/1eKRbZEuRZwfviGib5BPb64otTWmeCUFS/view?usp=sharing)
+- 📄 Know about my experiences [Find my CV](https://drive.google.com/file/d/13uGl2NfV23axY6X_vkZDsG_JjQYzBGX8/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
