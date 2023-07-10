@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm MD Main Uddin</h1>
 <h3 align="center">A passionate MERN Stack developer</h3>
 
-- 🔭 I’m currently working on [HM Electronics](https://hm-electronics.web.app/)
+- 🔭 I’m currently working on [news today](https://news-today-vert.vercel.app/)
 - 🔭 My recent project [Nutritt](https://nutritt-dev.vercel.app/)
 
 - 🌱 I’m currently learning **Node , Redux, Postgresql**
 
 - 👯 I’m looking to collaborate on **Github**
 
-- 👨‍💻 All of my projects are available at [portfolio-ac019.web.app](portfolio-ac019.web.app)
+- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-quyfg0fyb-mainuddin1223.vercel.app/)
 
 - 💬 Ask me about **react , node.js , express.js**
 
