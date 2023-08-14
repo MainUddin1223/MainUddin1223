@@ -20,7 +20,7 @@
 <!-- ![CSS3](https://img.shields.io/badge/CSS-1d81c0?style=for-the-badge&logo=css3&logoColor=white) -->
 <!-- ![Bootstrap](https://img.shields.io/badge/Bootstrap-7511f6?style=for-the-badge&logo=bootstrap&logoColor=white) -->
 <!-- ![Ant Design](https://img.shields.io/badge/AntD-FC427B?style=for-the-badge&logo=antdesign&logoColor=white) -->
- ![MUI](https://img.shields.io/badge/MUI-2482ff?style=for-the-badge&logo=mui&logoColor=white) -->
+ <!--![MUI](https://img.shields.io/badge/MUI-2482ff?style=for-the-badge&logo=mui&logoColor=white) -->
 ![REST](https://img.shields.io/badge/REST_API-1e293b?style=for-the-badge&logo=trpc&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-0a9eb5?style=for-the-badge&logo=tailwindcss&logoColor=white)
 <!--![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)-->
@@ -50,8 +50,11 @@
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=white) -->
 <!-- ![Figma](https://img.shields.io/badge/Figma-FC427B?style=for-the-badge&logo=figma&logoColor=white) -->
 ### ⏳ Current Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MainUddin1223&show_icons=true&locale=en&layout=compact" alt="MainUddin1223" /></p>
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MainUddin1223&show_icons=true&locale=en&layout=compact" alt="MainUddin1223" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=main&show_icons=true&locale=en" alt="MainUddin1223" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MainUddin1223&label=Profile%20views&color=0e75b6&style=flat" alt="MainUddin1223" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MainUddin1223&label=Profile%20views&color=0e75b6&style=flat" alt="MainUddin1223" /> </p>-->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mainuddin1223&show_icons=true&locale=en&layout=compact" alt="mainuddin1223" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mainuddin1223&" alt="mainuddin1223" /></p>
