@@ -50,7 +50,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=white) -->
 <!-- ![Figma](https://img.shields.io/badge/Figma-FC427B?style=for-the-badge&logo=figma&logoColor=white) -->
 ### ⏳ Current Stats:
-<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mainuddin1223&show_icons=true&locale=en&layout=compact" alt="mainuddin1223" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mainuddin1223&show_icons=true&locale=en&layout=compact" alt="mainuddin1223" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mainuddin1223&show_icons=true&locale=en" alt="mainuddin1223" /></p>
 
