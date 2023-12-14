@@ -2,9 +2,9 @@
 <h3 align="center">Passionate Full Stack Developer</h3>
 <img align="right" src="https://raw.githubusercontent.com/sharifmrahat/sharifmrahat/main/typing.gif" width="300" height="200"/>
 
-- 🎯  I’m currently working on **NEXT.JS,POSTGRESQL,REDUX,PRISMA**
+- 🎯  I’m currently working on **NEXT.JS,POSTGRESQL,REDUX,PRISMA,SQL**
 
-- 👨‍💻  I’m currently learning **Advanced Developement**
+- 👨‍💻  I’m currently learning **Advanced Development**
 
 - 💻 Most familiar statement `console.log();`
 
