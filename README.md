@@ -2,7 +2,7 @@
 <h3 align="center">Passionate Full Stack Developer</h3>
 <img align="right" src="https://raw.githubusercontent.com/sharifmrahat/sharifmrahat/main/typing.gif" width="300" height="200"/>
 
-- 🎯  I’m currently working on **NEXT.JS,POSTGRESQL,REDUX,PRISMA,SQL**
+- 🎯  I’m currently working on **NEXT.JS,POSTGRESQL,REDUX,PRISMA,MYSQL**
 
 - 👨‍💻  I’m currently learning **Advanced Development**
 
@@ -28,13 +28,15 @@
 
 ![Nodejs](https://img.shields.io/badge/Node_JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Expressjs](https://img.shields.io/badge/Express-4e4e4e?style=for-the-badge&logo=express&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![GRAPHQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 
 
@@ -45,7 +47,7 @@
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
 
-
+![GRAPHQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![REST](https://img.shields.io/badge/REST_API-1e293b?style=for-the-badge&logo=trpc&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-d63aff?style=for-the-badge&logo=zapier&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5a29e4?style=for-the-badge&logo=axios&logoColor=white)
