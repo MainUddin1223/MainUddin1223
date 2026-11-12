@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05060f,50:4c1d95,100:22d3ee&height=200&section=header&text=MAIN%20UDDIN&fontSize=46&fontColor=f8fafc&animation=twinkling&fontAlignY=32&desc=BACKEND%20%C2%B7%20INFRA%20%C2%B7%20THE%20PARTS%20THAT%20HAVE%20TO%20STAY%20UP&descAlignY=56&descAlign=50&fontAlign=50" width="100%" />
 
@@ -134,4 +134,65 @@ Security & networks     ████████████░░░░░░�
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:4c1d95,100:05060f&height=100&section=footer" width="100%" />
 
-</div>
+</div> -->
+
+<pre>
+main@production:~$  ssh session
+Last login on pts/0
+
+[ ok ] node runtime
+[ ok ] postgres
+[ ok ] redis
+[ ok ] nginx
+[ ok ] pm2
+
+┌──(main㉿production)-[~]
+└─$ whoami
+
+    Main Uddin
+    backend engineer · Chattogram
+
+    APIs, databases, and Linux deployments.
+    The layer that matters sits between the request and a durable write:
+    auth, schema, cache, process manager, reverse proxy.
+    If it dies on restart, it is not finished.
+
+┌──(main㉿production)-[~]
+└─$ cat ~/.stack
+
+    RUNTIME     Node.js · TypeScript · Express · Next.js
+    DATA        PostgreSQL · Prisma · MongoDB · Redis · MySQL
+    SURFACE     React · Redux · Tailwind
+    REALTIME    Socket.IO
+    MACHINE     Linux VPS · Nginx · PM2 · Docker · GitHub Actions · Tailscale
+    TOOLS       Git · Postman
+
+┌──(main㉿production)-[~]
+└─$ ./signal.sh
+
+    backend & apis       ████████████████████  node · typescript · express
+    data layer           ███████████████████░  postgres · prisma · redis
+    ship path            ███████████████████░  nginx · pm2 · linux vps
+    containers & ci      ████████████████░░░░  docker · github actions
+    security & networks  ████████████░░░░░░░░  digging in, on purpose
+
+┌──(main㉿production)-[~]
+└─$ tail -n 5 ~/now.log
+
+    web security     auth boundaries, headers, the bugs that ship
+    networking       how the packet actually gets to nginx
+    system design    cache, queues, failure — not another route
+    deploy           docker + ci until ship is a command
+    runtime          node under load, not only npm run dev
+
+┌──(main㉿production)-[~]
+└─$ connect
+
+    portfolio    <a href="https://portfoli-o.vercel.app/">portfoli-o.vercel.app</a>
+    linkedin     <a href="https://www.linkedin.com/in/md-main-uddin-5971a3217/">md-main-uddin</a>
+    mail         <a href="mailto:mainuddin.dev@gmail.com">mainuddin.dev@gmail.com</a>
+
+└─$ build &amp;&amp; break &amp;&amp; patch &amp;&amp; ship
+█
+</pre>
+
